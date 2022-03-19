@@ -8,4 +8,7 @@ This is Simon Game which is similar to memory game.
 - As u succeed a level, the level will be updated.
 - Do this until u loose
 <br>
-<h2> This game will increase your mind awareness..</h2>
+<img src = "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0e/91/71/0e91713d-e8e0-9724-2c12-e7b57611ab3c/source/256x256bb.jpg" width = "20%" >
+<h2> This game will increase your mind awareness..
+</h2> 
+
